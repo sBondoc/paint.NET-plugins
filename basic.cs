@@ -1,18 +1,3 @@
-// Name:
-// Submenu:
-// Author:
-// Title:
-// Version:
-// Desc:
-// Keywords:
-// URL:
-// Help:
-#region UICode
-IntSliderControl Amount1 = 0; // [0,100] Slider 1 Description
-IntSliderControl Amount2 = 0; // [0,100] Slider 2 Description
-IntSliderControl Amount3 = 0; // [0,100] Slider 3 Description
-#endregion
-
 void Render(Surface dst, Surface src, Rectangle rect)
 {
     // Delete any of these lines you don't need
